@@ -173,13 +173,13 @@ export default function Modules() {
       <p>
         In this assignment I was able to further my cubing skills specifically
         catered toward solving the pyraminx. As someone who originally could not
-        solve and had not solved a single cube in their life aside form the
+        solve and had not solved a single cube in their life aside from the
         corner twisting pyraminx only a week prior, it was both incredibly
         satisfying solving it for the first time and seeing my progress
         throughout the weeks of practicing. I learned many skills as well, such
         as how to watch and learn from tutorials, how to plan and keep a good
         work ethic when it came to practicing and timing my solves almost daily.
-        I become more resilient as my determination to solve the pyraminx grew.
+        I became more resilient as my determination to solve the pyraminx grew.
         Seeing how my opinion went from ‘I can’t” to “I can try” and finally to
         “I can” is something I find very inspiring and will likely be something
         I remember in the future when I feel like giving up. The overall journey
@@ -208,9 +208,9 @@ export default function Modules() {
         This project involved many steps that taught me a few things. To begin,
         the project allowed me the chance to work in a group to teach others
         about a concept, which in this scenario was algorithms and their
-        prominiency in cubing and in our world. As someone who wishes to teach
-        as their career I found the opportunity quite helpful and I can see this
-        as a useful experience I will look back on in my future teaching career.
+        prominence in cubing and in our world. As someone who wishes to teach as
+        their career I found the opportunity quite helpful and I can see this as
+        a useful experience I will look back on in my future teaching career.
         Seeing how others respond to my teaching and how others approach
         situations differently, such as the method of solving they use, and how
         different solutions can be used in harmony to fix the same problem, as
@@ -276,12 +276,12 @@ export default function Modules() {
         was communication and teamwork. I also had the chance to collaborate on
         GitHub and use features such as the projects and issues tab to keep
         track of the progress each group member was making. I was even able to
-        delve about into web development and learned how to create a website on
+        delve into web development and learned how to create a website on
         Glitch. Most of these skills will prove useful in the future and are
         things I can continue to improve, whether that be learning a new form of
         coding when I worked on Glitch or learning to work as a group with
         others and splitting work amongst us. Furthermore, the experience of
-        planning, working and creating on a project to tackle a problem on the
+        planning, working and creating a project to tackle a problem on the
         larger scale was something very impactful to me. It showed me just how
         much potential for change coding can ensue and the workflow and process
         that a project on a larger scale often requires to be successful.
@@ -370,7 +370,7 @@ export default function Modules() {
         spoken about, this challenge allowed me to work in pairs, teach others
         about coding and to see how computer science, programming and technology
         have evolved in our world and what it means for our future. Our project
-        primarily focused on animation so I was given the change to learn to
+        primarily focused on animation so I was given the chance to learn to
         import and manipulate sprite sheets and images and create sprite data
         using JSX. Unlike the hackathon project I was also working a bit more
         collaboratively on the code instead of splitting the work between my
@@ -414,7 +414,7 @@ export default function Modules() {
       <h2>10. Following Others’ Live Coding Tutorial</h2>
       <p>
         Along with refactoring a program of my choice I was also allowed the
-        chance to see the results of my peers and how they refacctored their own
+        chance to see the results of my peers and how they refactored their own
         programs of choice. While programming through these step by step
         tutorials I learned other niche techniques in coding like the translate
         function in{" "}
@@ -451,7 +451,7 @@ export default function Modules() {
         something I will definitely look back on fondly. While the coding itself
         was informative I also learned a bit about how to present and explain
         ideas better by taking note of tactics used in other people’s
-        presentations like how they organise their presentation and utilise the
+        presentations like how they organize their presentation and utilize the
         slides. These tips were useful prior to my own presentation and will
         also help guide me when I create other presentations in the future.
         Overall, this project was inspiring and ignited my wish to learn more
