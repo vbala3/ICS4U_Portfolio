@@ -39,6 +39,10 @@ export default function Modules() {
           />
         </animated.div>
       </center>
+      <form action="https://www.codecademy.com/learn/learn-git" target="_blank">
+        <button type="submit">Codecademy</button>
+      </form>
+      <br></br>
       <form
         action="https://docs.google.com/document/d/10S72Cjqebi-N2oCZcNqDBXgxTHPKBjOL9BOOJoaGjR8/edit"
         target="_blank"
@@ -69,6 +73,13 @@ export default function Modules() {
         </animated.div>
       </center>
       <form
+        action="https://www.codecademy.com/learn/paths/build-web-apps-with-react"
+        target="_blank"
+      >
+        <button type="submit">Codecademy</button>
+      </form>
+      <br></br>
+      <form
         action="https://docs.google.com/document/d/1f1N-shzHROTqtu4mAmRlzzVPtLV2HD10p6ny_4UNhZc/edit"
         target="_blank"
       >
@@ -98,6 +109,13 @@ export default function Modules() {
           />
         </animated.div>
       </center>
+      <form
+        action="https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript"
+        target="_blank"
+      >
+        <button type="submit">Codecademy</button>
+      </form>
+      <br></br>
       <form
         action="https://docs.google.com/document/d/1TpR6S0ky5f13HQ0ujKhztFdl7OTTHrNN5LMPdyU4fyY/edit"
         target="_blank"
@@ -337,6 +355,13 @@ export default function Modules() {
           />
         </animated.div>
       </center>
+      <form
+        action="https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations#intro-natural-simulations"
+        target="_blank"
+      >
+        <button type="submit">Khan Academy</button>
+      </form>
+      <br></br>
       <h2>9. Live Coding Challenge</h2>
       <p>
         Arguably the biggest and longest project I worked on in this course. For
