@@ -38,6 +38,10 @@ to this section's matching END comment to see page-specific styles.
     format("opentype");
 }
 
+img {
+  flex-wrap: wrap;
+}
+
 /* Our remix on glitch button */
 .btn--remix {
   font-family: Sans-Serif;
@@ -53,7 +57,7 @@ to this section's matching END comment to see page-specific styles.
   box-sizing: border-box;
   border-radius: 4px;
   text-decoration: none;
-  color: #000;
+  color: #000000;
   white-space: nowrap;
   margin-left: auto;
 }
@@ -77,14 +81,13 @@ to this section's matching END comment to see page-specific styles.
 
 .footer a:not(.btn--remix):link,
 a:not(.btn--remix):visited {
-  font-family: HK Grotesk;
+  font-family: Monospace;
   font-style: normal;
   font-weight: normal;
   font-size: 1.1rem;
-  color: #000;
   text-decoration: none;
   border-style: none;
-  color: #008b8b;
+  color: #057575;
 }
 .footer a:hover {
   background: var(--color-primary);
@@ -196,4 +199,5 @@ button {
   border-color: #20b2aa;
   cursor: pointer;
   float: inline-grid;
+  flex-wrap: wrap;
 }
