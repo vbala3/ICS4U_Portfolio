@@ -36,7 +36,7 @@ export default function Home() {
       <div className="introduction">
         <h2>About Me</h2>
         <p>
-          Hello! My name is Vaseeka and I am a grade 11 student currently taking
+          Hello! My name is Vaseeka Balachandiran and I am a grade 11 student currently taking
           grade 12 Computer Science in A.Y. Jackson. This website is where I
           document my journey throughout this course and my experience working
           with various platforms and projects. To check out my work, see the{" "}
