@@ -76,7 +76,7 @@ img {
   padding: 1rem 0 0.75rem 0;
   width: 100%;
   flex-wrap: wrap;
-  border-top: 4px solid #000000;
+  border-top: 4px solid #c1feff;
 }
 
 .footer a:not(.btn--remix):link,
@@ -110,7 +110,7 @@ body {
   font-family: Monospace;
   font-size: 15px;
   background-color: var(--color-bg);
-  border: 2px solid #9cddde;
+  border: 4px solid #c1feff;
   box-sizing: border-box;
   border-radius: 4px;
   text-decoration: none;
