@@ -1,6 +1,6 @@
 # Portfolio
 
-**Welcome to my Repository!**
+**Hi, my name is Vaseeka Balachaandiran! Welcome to my Repository!**
 
 Unfortunately, I was unable to get my GitHub pages to function properly so I have instead made my link accessible in the 'about' section of my repository as well as in the README file.
 
