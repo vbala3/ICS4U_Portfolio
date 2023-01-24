@@ -8,4 +8,6 @@ Link to Live Website: *https://spiky-zany-stetson.glitch.me/*
 
 Link to Code: *https://glitch.com/edit/#!/spiky-zany-stetson*
 
+Link to Interview: *https://drive.google.com/file/d/1iImyKOvfJr62wSrnFK8f2h1HCssZrBcc/view*
+
 "Life is like a rubik's cube." *- Vaseeka*
